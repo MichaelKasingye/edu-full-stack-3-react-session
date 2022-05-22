@@ -15,6 +15,15 @@ function index() {
           <Link to="/custom-hook">custom hook</Link>
         </li>
         <li>
+          <Link to="/contexAPI-search">custom search</Link>
+        </li>
+        <li>
+          <Link to="/contexAPI-resuilt">custom resuilt</Link>
+        </li>
+        <li>
+          <Link to="/redux-page">redux-page</Link>
+        </li>
+        <li>
           <Link to="/">Home</Link>
         </li>
       </ul>
